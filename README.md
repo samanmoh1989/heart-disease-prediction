@@ -1,5 +1,9 @@
 # ❤️ Heart Disease Prediction
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1.4+-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue.svg)
 ## 📌 Project Overview
 This project applies machine learning to predict the presence of heart disease based on patient medical attributes.  
 The dataset contains 303 rows and 14 columns, including features such as age, sex, blood pressure, cholesterol, chest pain type, max heart rate, and more.  
